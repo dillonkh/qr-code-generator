@@ -46,6 +46,8 @@ npm run preview
 
 This project is configured to automatically deploy to GitHub Pages when changes are pushed to the main branch.
 
+<img width="200" height="200" alt="qr" src="https://github.com/user-attachments/assets/983151df-720b-41f4-9e22-8d87c718e212" />
+
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details
